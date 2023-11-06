@@ -1,6 +1,6 @@
 {
-  "_from": "xlsx@0.17.0",
-  "_id": "xlsx@0.17.0",
+  "_from": "ems-xlsx@0.17.0",
+  "_id": "ems-xlsx@0.17.0",
   "_inBundle": false,
   "_integrity": "sha512-bZ36FSACiAyjoldey1+7it50PMlDp1pcAJrZKcVZHzKd8BC/z6TQ/QAN8onuqcepifqSznR6uKnjPhaGt6ig9A==",
   "_location": "/xlsx",
