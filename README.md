@@ -173,7 +173,7 @@ In the browser, just add a script tag:
 With [npm](https://www.npmjs.org/package/xlsx):
 
 ```bash
-$ npm install xlsx
+$ npm install ems-xlsx
 ```
 
 With [bower](http://bower.io/search/?q=js-xlsx):
