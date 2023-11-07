@@ -33,6 +33,9 @@
 			"pattern": "xlsx.js"
 		}
 	},
+	 "publishConfig": {
+           "registry": "https://registry.npmjs.org/"
+        },
 	"bugs": { "url": "https://github.com/lkggit/ems-xlsx/issues" },
 	"license": "Apache-2.0",
 	"engines": { "node": ">=0.8" }
