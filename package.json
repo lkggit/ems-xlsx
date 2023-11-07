@@ -1,6 +1,6 @@
 {
 	"name": "ems-xlsx",
-	"version": "0.17.0",
+	"version": "0.17.1",
 	"author": "ems",
 	"description": "SheetJS Spreadsheet data parser and writer",
 	"keywords": [
